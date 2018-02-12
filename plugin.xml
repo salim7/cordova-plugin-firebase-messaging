@@ -74,7 +74,6 @@ xmlns:android="http://schemas.android.com/apk/res/android"
         <dependency id="cordova-support-google-services" version="~1.0.0"/>
 
         <framework src="com.google.firebase:firebase-messaging:$FIREBASE_VERSION" />
-        <framework src="com.android.support:support-compat:26.+" />
         <framework src="me.leolin:ShortcutBadger:1.1.17@aar"/>
 
         <source-file src="src/android/FirebaseMessagingPlugin.java"
